@@ -11,6 +11,6 @@ A cloud based remote android managment suite, powered by NodeJS
 <p> 6- ./start_linux </p>
 <p> 7- happy hunter :) </p>
 
-<p> If you get a java error sudo update-alternatives --config java Use this command and select Java 11 </p>
+<p> If you get a java error " sudo update-alternatives --config java " Use this command and select Java 11 </p>
 
 <p> You can also try https://github.com/Morsmalleo/AhMyth/wiki/Source-Code-Setup:-Kali-Linux if you don't install Automaik with instructions here </p>
